@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\t2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\t2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Interfaces\\IRelatorio.cs",
+              "RelativeDocumentMoniker": "T2\\Interfaces\\IRelatorio.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Interfaces\\IRelatorio.cs",
+              "RelativeToolTip": "T2\\Interfaces\\IRelatorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:47:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Program.cs",
+              "RelativeDocumentMoniker": "T2\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Program.cs",
+              "RelativeToolTip": "T2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:47:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "T2.csproj",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
+              "RelativeDocumentMoniker": "T2\\T2.csproj",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
+              "RelativeToolTip": "T2\\T2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T23:46:44.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

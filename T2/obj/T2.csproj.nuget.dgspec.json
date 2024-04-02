@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\João\\source\\repos\\T2\\T2\\T2.csproj": {}
+    "C:\\Users\\João\\source\\repos\\ParadigmasT2\\T2\\T2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\João\\source\\repos\\T2\\T2\\T2.csproj": {
+    "C:\\Users\\João\\source\\repos\\ParadigmasT2\\T2\\T2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João\\source\\repos\\T2\\T2\\T2.csproj",
+        "projectUniqueName": "C:\\Users\\João\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
         "projectName": "T2",
-        "projectPath": "C:\\Users\\João\\source\\repos\\T2\\T2\\T2.csproj",
+        "projectPath": "C:\\Users\\João\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
         "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João\\source\\repos\\T2\\T2\\obj\\",
+        "outputPath": "C:\\Users\\João\\source\\repos\\ParadigmasT2\\T2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
