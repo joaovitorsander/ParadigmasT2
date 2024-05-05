@@ -10,15 +10,11 @@ namespace T2.Relatorios
 {
     public class MaisVendidos : IRelatorio
     {
-        static public void Imprimir(List<Produto> produtos)
+        public List<Produto> Imprimir(List<Produto> produtos)
         {
-            var list = produtos
-                       .OrderByDescending(p => p.QtdVendida)
-                       .Take(5);
-            foreach (var produto in list)
-            {
-                Console.WriteLine(String.Format("Código {0} - {1} com {2} unidades vendidas", produto.Codigo, produto.Descricao, produto.QtdVendida));
-            }
+            return (List<Produto>) produtos.
+                                    OrderByDescending(p => p.QtdVendida).
+                                    Take(5);
         }
     }
 }

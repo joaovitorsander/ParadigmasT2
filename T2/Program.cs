@@ -31,11 +31,11 @@ while (!sair)
     {
         case "1":
             Console.WriteLine("Você selecionou 'Produtos mais vendidos'");
-            MaisVendidos.Imprimir(listaProdutos);
+            //MaisVendidos.Imprimir(listaProdutos);
             break;
         case "2":
             Console.WriteLine("Você selecionou 'Produtos com mais estoque'");
-            ProdutosMaisEstoque.Imprimir(listaProdutos);
+            //ProdutosMaisEstoque.Imprimir(listaProdutos);
             break;
         case "3":
             Console.WriteLine("Você selecionou 'Categoria mais vendida'");
@@ -43,15 +43,15 @@ while (!sair)
             break;
         case "4":
             Console.WriteLine("Você selecionou 'Produtos menos vendidos'");
-            MenosVendidos.Imprimir(listaProdutos);
+            //MenosVendidos.Imprimir(listaProdutos);
             break;
         case "5":
             Console.WriteLine("Você selecionou 'Estoque de segurança'");
-            EstoqueSeguranca.Imprimir(listaProdutos);
+            //EstoqueSeguranca.Imprimir(listaProdutos);
             break;
         case "6":
             Console.WriteLine("Você selecionou 'Excesso de estoque'");
-            ExcessoEstoque.Imprimir(listaProdutos);
+            //ExcessoEstoque.Imprimir(listaProdutos);
             break;
         case "7":
             Console.WriteLine("Você selecionou 'Média de preço por categoria'");

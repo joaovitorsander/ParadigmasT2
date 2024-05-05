@@ -10,16 +10,11 @@ namespace T2.Relatorios
 {
     public class ExcessoEstoque : IRelatorio
     {
-        static public void Imprimir(List<Produto> produtos)
+        public List<Produto> Imprimir(List<Produto> produtos)
         {
-            var ExcessoEstoque = from produto in produtos
-                                 where (produto.Estoque >= produto.QtdVendida * 3)
-                                 select produto;
-
-            foreach (var produto in ExcessoEstoque)
-            {
-                Console.WriteLine(String.Format("{0} - {1}: {2}", produto.Codigo, produto.Descricao, produto.Estoque));
-            }
+            return (List<Produto>) (from produto in produtos
+                                   where (produto.Estoque >= produto.QtdVendida * 3)
+                                   select produto);
         }
     }
 }

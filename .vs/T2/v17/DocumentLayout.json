@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\t2\\t2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{03A8B11F-4E84-475C-ACE4-1B613B1519BB}|T2\\T2.csproj|solutionrelative:t2\\t2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\basedados\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\basedados\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\validate\\enderecovalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\validate\\enderecovalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\parser\\enderecoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\parser\\enderecoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\parser\\clienteparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\parser\\clienteparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\services\\validate\\clientevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\services\\validate\\clientevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|c:\\users\\jo\u00E3o\\source\\repos\\paradigmast2\\apiwebdb\\basedados\\models\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6579B4E-6DED-41CD-813B-75A2504EDD69}|ApiWebDB\\ApiWebDB.csproj|solutionrelative:apiwebdb\\basedados\\models\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRelatorio.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Interfaces\\IRelatorio.cs",
-              "RelativeDocumentMoniker": "T2\\Interfaces\\IRelatorio.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Interfaces\\IRelatorio.cs",
-              "RelativeToolTip": "T2\\Interfaces\\IRelatorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:47:13.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Program.cs",
-              "RelativeDocumentMoniker": "T2\\Program.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\Program.cs",
-              "RelativeToolTip": "T2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:47:08.335Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -60,16 +74,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "T2.csproj",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
-              "RelativeDocumentMoniker": "T2\\T2.csproj",
-              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\T2\\T2.csproj",
-              "RelativeToolTip": "T2\\T2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T23:46:44.074Z",
+              "DocumentIndex": 5,
+              "Title": "EnderecoValidate.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvyIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:16:27.927Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:10:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TbEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "RelativeToolTip": "ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:44:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:43:17.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:43:51.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\EnderecoService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADgvz8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:08:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecosController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Controllers\\EnderecosController.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Controllers\\EnderecosController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Controllers\\EnderecosController.cs",
+              "RelativeToolTip": "ApiWebDB\\Controllers\\EnderecosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:53:01.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ApiWebDB\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:03:35.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteParser.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Parser\\ClienteParser.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\Parser\\ClienteParser.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Parser\\ClienteParser.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\Parser\\ClienteParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:24:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Program.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Program.cs",
+              "RelativeToolTip": "ApiWebDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:47:19.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoParser.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:24:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteValidate.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Validate\\ClienteValidate.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\Services\\Validate\\ClienteValidate.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\Services\\Validate\\ClienteValidate.cs",
+              "RelativeToolTip": "ApiWebDB\\Services\\Validate\\ClienteValidate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:16:12.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TbCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\BaseDados\\Models\\TbCliente.cs",
+              "RelativeDocumentMoniker": "ApiWebDB\\BaseDados\\Models\\TbCliente.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\ParadigmasT2\\ApiWebDB\\BaseDados\\Models\\TbCliente.cs",
+              "RelativeToolTip": "ApiWebDB\\BaseDados\\Models\\TbCliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:46:20.625Z"
             }
           ]
         }

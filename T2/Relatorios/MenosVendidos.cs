@@ -10,17 +10,11 @@ namespace T2.Relatorios
 {
     public class MenosVendidos : IRelatorio
     {
-        static public void Imprimir(List<Produto> produtos)
+        public List<Produto> Imprimir(List<Produto> produtos)
         {
-            var produtosOrdenados = produtos.OrderBy(p => p.QtdVendida);
-
-            var top5Menosvendidos = produtosOrdenados.Take(5);
-
-            Console.WriteLine("Os 5 produtos menos vendidos são:");
-            foreach (Produto produto in top5Menosvendidos)
-            {
-                Console.WriteLine(String.Format("Código {0} - {1} com {2} unidades vendidas", produto.Codigo, produto.Descricao, produto.QtdVendida));
-            }
+            return (List<Produto>) produtos.
+                                   OrderBy(p => p.QtdVendida).
+                                   Take(5);
         }
     }
 }
