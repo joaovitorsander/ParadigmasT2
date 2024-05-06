@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiWebDB</name>
+    </assembly>
+    <members>
+        <member name="P:APIWebDB.BaseDados.Models.TbCliente.Tipodoc">
+            <summary>
+            1 - CPF, 2 - CNPJ, 3 - Passaporte, 4 - CNH, 99 - Outros
+            </summary>
+        </member>
+        <member name="P:APIWebDB.BaseDados.Models.TbEndereco.Status">
+            <summary>
+            0 - inativo\n1 - ativo
+            </summary>
+        </member>
+        <member name="T:ApiWebDB.Controllers.ClientesController">
+            <summary>
+            Controlador para gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:ApiWebDB.Controllers.ClientesController.Insert(ApiWebDB.Services.DTOs.ClienteDTO)">
+            <summary>
+            Insere um novo cliente.
+            </summary>
+            <param name="cliente">O cliente a ser inserido.</param>
+            <returns>O cliente inserido.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.ClientesController.Update(System.Int32,ApiWebDB.Services.DTOs.ClienteDTO)">
+            <summary>
+            Atualiza um cliente existente.
+            </summary>
+            <param name="id">O ID do cliente a ser atualizado.</param>
+            <param name="dto">Os novos dados do cliente.</param>
+            <returns>O cliente atualizado.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.ClientesController.Delete(System.Int32)">
+            <summary>
+            Exclui um cliente.
+            </summary>
+            <param name="id">O ID do cliente a ser excluído.</param>
+            <returns>Retorna NoContent se a exclusão for bem-sucedida.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.ClientesController.GetById(System.Int32)">
+            <summary>
+            Obtém um cliente pelo ID.
+            </summary>
+            <param name="id">O ID do cliente a ser obtido.</param>
+            <returns>O cliente solicitado.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.ClientesController.Get">
+            <summary>
+            Obtém todos os clientes.
+            </summary>
+            <returns>Uma lista de todos os clientes.</returns>
+        </member>
+        <member name="T:ApiWebDB.Controllers.EnderecosController">
+            <summary>
+            Controlador para gerenciar endereços.
+            </summary>
+        </member>
+        <member name="M:ApiWebDB.Controllers.EnderecosController.Insert(ApiWebDB.Services.DTOs.EnderecoDTO)">
+            <summary>
+            Insere um novo endereço.
+            </summary>
+            <param name="endereco">O endereço a ser inserido.</param>
+            <returns>O endereço inserido.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.EnderecosController.Update(System.Int32,ApiWebDB.Services.DTOs.EnderecoDTO)">
+            <summary>
+            Atualiza um endereço existente.
+            </summary>
+            <param name="id">O ID do endereço a ser atualizado.</param>
+            <param name="dto">Os novos dados do endereço.</param>
+            <returns>O endereço atualizado.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.EnderecosController.Delete(System.Int32)">
+            <summary>
+            Exclui um endereço.
+            </summary>
+            <param name="id">O ID do endereço a ser excluído.</param>
+            <returns>Retorna NoContent se a exclusão for bem-sucedida.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.EnderecosController.GetById(System.Int32)">
+            <summary>
+            Obtém um endereço pelo ID.
+            </summary>
+            <param name="id">O ID do endereço a ser obtido.</param>
+            <returns>O endereço solicitado.</returns>
+        </member>
+        <member name="M:ApiWebDB.Controllers.EnderecosController.Get">
+            <summary>
+            Obtém todos os endereços.
+            </summary>
+            <returns>Uma lista de todos os endereços.</returns>
+        </member>
+        <member name="P:ApiWebDB.Services.DTOs.EnderecoDTO.Status">
+            <summary>
+            0 - inativo\n1 - ativo
+            </summary>
+        </member>
+    </members>
+</doc>

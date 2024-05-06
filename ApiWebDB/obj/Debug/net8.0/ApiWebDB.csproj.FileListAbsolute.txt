@@ -122,3 +122,5 @@ C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\bin\Debug\net8.0\Serilog.Forma
 C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\bin\Debug\net8.0\Serilog.Sinks.Async.dll
 C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\bin\Debug\net8.0\Serilog.Sinks.File.dll
 C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\bin\Debug\net8.0\ApiWebDB.xml
+C:\Users\João\source\repos\ParadigmasT2\ApiWebDB\obj\Debug\net8.0\ApiWebDB.xml

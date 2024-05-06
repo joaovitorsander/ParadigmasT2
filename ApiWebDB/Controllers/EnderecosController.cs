@@ -9,9 +9,12 @@ using Serilog;
 
 namespace ApiWebDB.Controllers
 {
+    /// <summary>
+    /// Controlador para gerenciar endereços.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
-    public class EnderecosController: ControllerBase
+    public class EnderecosController : ControllerBase
     {
         public readonly EnderecoService _service;
         private readonly Microsoft.Extensions.Logging.ILogger _log;
@@ -22,6 +25,11 @@ namespace ApiWebDB.Controllers
             _log = log;
         }
 
+        /// <summary>
+        /// Insere um novo endereço.
+        /// </summary>
+        /// <param name="endereco">O endereço a ser inserido.</param>
+        /// <returns>O endereço inserido.</returns>
         [HttpPost()]
         public ActionResult<TbEndereco> Insert(EnderecoDTO endereco)
         {
@@ -44,6 +52,12 @@ namespace ApiWebDB.Controllers
             }
         }
 
+        /// <summary>
+        /// Atualiza um endereço existente.
+        /// </summary>
+        /// <param name="id">O ID do endereço a ser atualizado.</param>
+        /// <param name="dto">Os novos dados do endereço.</param>
+        /// <returns>O endereço atualizado.</returns>
         [HttpPut("{id}")]
         public ActionResult<TbEndereco> Update(int id, EnderecoDTO dto)
         {
@@ -58,6 +72,11 @@ namespace ApiWebDB.Controllers
             }
         }
 
+        /// <summary>
+        /// Exclui um endereço.
+        /// </summary>
+        /// <param name="id">O ID do endereço a ser excluído.</param>
+        /// <returns>Retorna NoContent se a exclusão for bem-sucedida.</returns>
         [HttpDelete("{id}")]
         public ActionResult<TbEndereco> Delete(int id)
         {
@@ -78,6 +97,12 @@ namespace ApiWebDB.Controllers
                 };
             }
         }
+
+        /// <summary>
+        /// Obtém um endereço pelo ID.
+        /// </summary>
+        /// <param name="id">O ID do endereço a ser obtido.</param>
+        /// <returns>O endereço solicitado.</returns>
         [HttpGet("{id}")]
         public ActionResult<TbEndereco> GetById(int id)
         {
@@ -98,6 +123,11 @@ namespace ApiWebDB.Controllers
                 };
             }
         }
+
+        /// <summary>
+        /// Obtém todos os endereços.
+        /// </summary>
+        /// <returns>Uma lista de todos os endereços.</returns>
         [HttpGet()]
         public ActionResult<TbEndereco> Get()
         {
@@ -118,6 +148,5 @@ namespace ApiWebDB.Controllers
                 };
             }
         }
-
     }
 }
