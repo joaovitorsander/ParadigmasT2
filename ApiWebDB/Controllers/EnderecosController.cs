@@ -40,7 +40,6 @@ namespace ApiWebDB.Controllers
             }
             catch (InvalidEntityException E)
             {
-                _log.LogError(E.Message);
                 return new ObjectResult(new { error = E.Message })
                 {
                     StatusCode = 422
@@ -48,6 +47,7 @@ namespace ApiWebDB.Controllers
             }
             catch (System.Exception E)
             {
+                _log.LogError(E.Message);
                 return BadRequest(E.Message);
             }
         }
@@ -68,6 +68,7 @@ namespace ApiWebDB.Controllers
             }
             catch (System.Exception e)
             {
+                _log.LogError(e.Message);
                 return BadRequest(e.Message);
             }
         }
@@ -91,6 +92,7 @@ namespace ApiWebDB.Controllers
             }
             catch (System.Exception e)
             {
+                _log.LogError(e.Message);
                 return new ObjectResult(new { error = e.Message })
                 {
                     StatusCode = 500
@@ -99,16 +101,16 @@ namespace ApiWebDB.Controllers
         }
 
         /// <summary>
-        /// Obtém um endereço pelo ID.
+        /// Obtém um endereço pelo ID do cliente.
         /// </summary>
-        /// <param name="id">O ID do endereço a ser obtido.</param>
+        /// <param name="id">Pega os dados do endereço conforme o ID do cliente.</param>
         /// <returns>O endereço solicitado.</returns>
         [HttpGet("{id}")]
-        public ActionResult<TbEndereco> GetById(int id)
+        public ActionResult<TbEndereco> GetEnderecoById(int id)
         {
             try
             {
-                var entity = _service.GetById(id);
+                var entity = _service.GetEnderecoById(id);
                 return Ok(entity);
             }
             catch (NotFoundException E)
@@ -117,6 +119,7 @@ namespace ApiWebDB.Controllers
             }
             catch (System.Exception e)
             {
+                _log.LogError(e.Message);
                 return new ObjectResult(new { error = e.Message })
                 {
                     StatusCode = 500
@@ -142,6 +145,7 @@ namespace ApiWebDB.Controllers
             }
             catch (System.Exception e)
             {
+                _log.LogError(e.Message);
                 return new ObjectResult(new { error = e.Message })
                 {
                     StatusCode = 500

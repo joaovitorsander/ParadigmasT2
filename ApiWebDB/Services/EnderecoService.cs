@@ -54,7 +54,7 @@ namespace ApiWebDB.Services
             EnderecoById.Bairro = entity.Bairro;
             EnderecoById.Cidade = entity.Cidade;
             EnderecoById.Clienteid = entity.Clienteid;
-            EnderecoById.Status = entity.Status;    
+            EnderecoById.Status = entity.Status;
 
 
             _dbContext.Update(EnderecoById);
@@ -72,15 +72,7 @@ namespace ApiWebDB.Services
             }
             return existingEntity;
         }
-        public IEnumerable<TbEndereco> Get()
-        {
-            var existingEntity = _dbContext.TbEnderecos.ToList();
-            if (existingEntity == null || existingEntity.Count == 0)
-            {
-                throw new NotFoundException("Nenhum registro encontrado");
-            }
-            return existingEntity;
-        }
+
         public void Delete(int id)
         {
             var existingEntity = GetById(id);
@@ -92,6 +84,27 @@ namespace ApiWebDB.Services
             _dbContext.Remove(existingEntity);
             _dbContext.SaveChanges();
 
+        }
+
+        public IEnumerable<TbEndereco> GetEnderecoById(int id)
+        {
+            var existingEntity = _dbContext.TbEnderecos.Where(c => c.Clienteid == id).ToList();
+            if (existingEntity == null)
+            {
+                throw new NotFoundException("Registro não existe");
+            }
+            return existingEntity;
+        }
+
+        public IEnumerable<TbEndereco> Get()
+        {
+            var existingEntity = _dbContext.TbEnderecos.ToList();
+
+            if (existingEntity == null || existingEntity.Count == 0)
+            {
+                throw new NotFoundException("Nenhum registro foi encontrado");
+            }
+            return existingEntity;
         }
     }
 }

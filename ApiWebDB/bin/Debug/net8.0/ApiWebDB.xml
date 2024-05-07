@@ -81,11 +81,11 @@
             <param name="id">O ID do endereço a ser excluído.</param>
             <returns>Retorna NoContent se a exclusão for bem-sucedida.</returns>
         </member>
-        <member name="M:ApiWebDB.Controllers.EnderecosController.GetById(System.Int32)">
+        <member name="M:ApiWebDB.Controllers.EnderecosController.GetEnderecoById(System.Int32)">
             <summary>
-            Obtém um endereço pelo ID.
+            Obtém um endereço pelo ID do cliente.
             </summary>
-            <param name="id">O ID do endereço a ser obtido.</param>
+            <param name="id">Pega os dados do endereço conforme o ID do cliente.</param>
             <returns>O endereço solicitado.</returns>
         </member>
         <member name="M:ApiWebDB.Controllers.EnderecosController.Get">
