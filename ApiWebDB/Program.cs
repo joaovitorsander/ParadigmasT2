@@ -25,7 +25,7 @@ builder.Services.AddSwaggerGen(options =>
 options.SwaggerDoc("v1", new OpenApiInfo
 {
     Version = "Versão 1",
-    Title = "API Paradigmas T2",
+    Title = "API Paradigmas T3",
     Description = "API de Crud de clientes e endereços.",
     TermsOfService = new Uri("https://example.com/terms"),
     Contact = new OpenApiContact
